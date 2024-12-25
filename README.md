@@ -49,7 +49,7 @@ ToDoApp/
 │   ├── ListScreen.swift              # Main screen displaying the task list
 │   ├── ToDoDetailScreen.swift        # Screem for editing existing tasks
 ```
-```
+
 
 ## Video Demo  
 
@@ -58,6 +58,7 @@ ToDoApp/
 https://github.com/user-attachments/assets/6729d88a-a7a5-453c-8953-9ea8734bdb6a
 
 
+```
 
 ## Installation
 
